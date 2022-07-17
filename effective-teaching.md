@@ -39,7 +39,7 @@ In my mentoring, I have tried to know all of my students through one on one meet
 
 ## Now What?
 **Preparation**
-- [ ] [Create a syllabus quiz for 180](https://github.com/kaychoro/progressing-teacher-summary/issues/1)
+- [x] [Create a syllabus quiz for 180](https://github.com/kaychoro/progressing-teacher-summary/issues/1)
 - [ ] [Create a syllabus quiz for 212](https://github.com/kaychoro/progressing-teacher-summary/issues/2)
 - [ ] [Review lesson openers for 180](https://github.com/kaychoro/progressing-teacher-summary/issues/3)
 - [ ] [Help the semester end with bang for our students in 180](https://github.com/kaychoro/progressing-teacher-summary/issues/4)
