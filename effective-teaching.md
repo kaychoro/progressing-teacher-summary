@@ -35,9 +35,13 @@ The largest impact in my daily classroom has been applying the principles of att
 
 In each of my classes, I have tried to integrate lessons from the Book of Mormon and the Bible from my daily study with the material so that there are examples that the students can see of discipleship and application of the scriptures to their lives. I seek to bring the Holy Ghost through the scriptures into the classroom so that we can all be taught together. I know that I've felt prompted to share certain experiences with my students in one section of a course that I don't necessarily share with others because the Spirit says someone in here needs it.
 
-In my mentoring, I have tried to know all of my students through one on one meetings. After learning about mentoring, I changed up the schedule of my courses so that I had a chance to meet with each student one on one. I will plan to do this again next semester
+In my mentoring, I have tried to know all of my students through one on one meetings. After learning about mentoring, I changed up the schedule of my courses so that I had a chance to meet with each student one on one. I will plan to do this again next semester - only earlier so that students can connect with me and be successful in the course.
 
 ## Now What?
+As I consider the ways in which I've grown through the progressing teacher course, I've started creating a list of activities that I can do to be a continually progressing teacher. I've created an [issues list](https://github.com/kaychoro/progressing-teacher-summary/issues) and added the issues that are currently on the list to the following section as a task list for me to come to as I progress.
+
+As I take time to reflect on each lesson and each course at the end of the semester, I will add to the issues list.
+
 **Preparation**
 - [x] [Create a syllabus quiz for 180](https://github.com/kaychoro/progressing-teacher-summary/issues/1)
 - [ ] [Create a syllabus quiz for 212](https://github.com/kaychoro/progressing-teacher-summary/issues/2)

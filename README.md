@@ -2,11 +2,10 @@
 
 Welcome to the my summary of learnings and notes from the Progressing Teacher course for faculty at BYU-Idaho.
 
-- [Progressing Teachers](progressing-teachers.md)
-- [BYU-Idaho Learning Outcomes](learning-outcomes.md)
 - [Effective Teaching](effective-teaching.md)
+- [BYU-Idaho Learning Outcomes](learning-outcomes.md)
 
-Each module contains a summary of the topic and examples of plans that I have to improve my teaching in my classroom.
+Each module contains a summary of the topic and examples of plans that I have to improve my teaching.
 
 ## Contact
 
