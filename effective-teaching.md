@@ -31,7 +31,7 @@ For each lesson, we should also follow the same principle of having good opening
 
 ## Now What?
 **Preparation**
-- [ ] https://github.com/kaychoro/progressing-teacher-summary/issues/3  
+- [ ] [Review lesson openers for 180](https://github.com/kaychoro/progressing-teacher-summary/issues/3)
 
 **In the classroom**
 - [ ] Task 1 
